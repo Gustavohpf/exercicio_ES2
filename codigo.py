@@ -1,8 +1,8 @@
 ##Imprimir los numeros del 1 al 100 y calcular la suma de todos los nuumeros
 ###pares por un lado, y por otro, la de los impares.
-# n = 1
-# p = 0
-# i = 0
+n = 1
+p = 0
+i = 0
 while n <= 100:
     print n,
     if n%2 == 0:
